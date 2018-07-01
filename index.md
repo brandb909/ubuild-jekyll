@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: 'Apogee '
   - link: "#"
-    link_text: Pricing
+    link_text: Clients
   - link: "#"
     link_text: Team
   cta:
