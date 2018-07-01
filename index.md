@@ -14,7 +14,7 @@ page_sections:
   - link: ''
     link_text: Cisco
   - link: "#"
-    link_text: Clients
+    link_text: Deployments
   - link: "#"
     link_text: Team
   cta:
