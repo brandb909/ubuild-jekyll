@@ -16,5 +16,4 @@ page_sections:
   block: media-1
 - template: 2-column-text
   block: two-column-1
-published: false
 ---
