@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: Features
+    link_text: 'Apogee '
   - link: "#"
     link_text: Pricing
   - link: "#"
